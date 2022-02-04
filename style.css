@@ -1,0 +1,10 @@
+.container {
+    width: 500px;
+    border: 1px solid red;
+    padding: 1rem;
+    margin: 10rem auto;
+}
+.information_one,.information_two,.information_three,
+.information_four,.information_five {
+    font-weight: bold;
+}
